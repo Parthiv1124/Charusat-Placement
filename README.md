@@ -1,2 +1,1 @@
-This is an frontend project which display the current placement system of Charusat-Depstar. It contains the details of visited company and packages offered by them. It contains the details of placement head faculty
-for any further guidance.
+This is an frontend project which display the current placement system of Charusat-Depstar. It contains the details of visited company and packages offered by them, their policy and criteria. It contains the details of placement cell head faculty for any further guidance.
